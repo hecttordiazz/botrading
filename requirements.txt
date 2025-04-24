@@ -1,0 +1,9 @@
+python-telegram-bot==20.6
+yfinance as yf
+talib
+numpy as np
+pandas as pd
+time
+telegram
+asyncio
+datetime, timedelta
